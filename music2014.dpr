@@ -3,7 +3,7 @@ program music2014;
 uses
   System.StartUpCopy,
   FMX.Forms,
-  MasterDetail in 'MasterDetail.pas' {MasterDetailForm};
+  Unit1 in 'Unit1.pas' {MasterDetailForm};
 
 {$R *.res}
 

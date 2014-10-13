@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899-12-30 00:00:00.000.940,D:\Projects\Samples\RESTClient_DiscoGS2\RESTDemo_MasterDetail.dproj=D:\Projects\Samples\RESTClient_DiscoGS2\MasterDetailApplication.dproj</Transaction>
-    <Transaction>2014-10-06 17:28:01.585,D:\Temp\poster\RESTDemo_MasterDetail\music2014.dproj=D:\Temp\poster\RESTDemo_MasterDetail\RESTDemo_MasterDetail.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.940,D:\Projects\Samples\RESTClient_DiscoGS2\MasterDetailApplication.dproj=D:\Projects\Samples\RESTClient_DiscoGS2\RESTDemo_MasterDetail.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.585,D:\Temp\poster\RESTDemo_MasterDetail\RESTDemo_MasterDetail.dproj=D:\Temp\poster\RESTDemo_MasterDetail\music2014.dproj</Transaction>
+    <Transaction>2014-10-13 10:06:46.345,=D:\Projects\Samples\music2014\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>
